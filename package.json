@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "教程",
+  "main": "index.js",
+  "repository": "https://github.com/dulingkang/python.git",
+  "author": "Shawn.Du <dulingkang@163.com>",
+  "license": "GPL-3.0 License",
+  "private": true,
+  "devDependencies": {
+    "vuepress": "^1.8.2",
+    "vuepress-plugin-auto-sidebar": "^2.1.0"
+  }
+}
