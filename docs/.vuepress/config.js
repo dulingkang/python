@@ -4,11 +4,12 @@ module.exports = {
   plugins: [
     require('./sidebar.js')
   ],
+  sidebarDepth: 2,
   themeConfig: {
     lastUpdated: 'Last Updated',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Python基础', link: '/base/' },
+      { text: 'Python基础', link: '/基础篇/' },
     ]
   }
 }

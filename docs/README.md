@@ -4,7 +4,7 @@ heroImage: /dev.jpg
 heroText: 开发者的乐园
 tagline: 包含Python一系列教程
 actionText: 快速开始 →
-actionLink: /base/
+actionLink: /基础篇/
 features:
 - title: 基础教程
   details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。

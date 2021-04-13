@@ -1,3 +1,11 @@
+# 00-简介
+## 开篇
+基础版块并不只有基础概念、操作，还加入了一些进阶难度的知识，或是一些重难点、易错点等，学完整个课程，将会收获以下
+- 帮助到入门及进阶的程序员
+- 掌握`Python`基本操作
+- 掌握一些实战技巧
+
+## 语言
 基于最新的`Python 3.x`版本，中文，免费，完整示例教程
 
 `Python` 是一种易于学习又功能强大的编程语言。它提供了高效的高级数据结构，还能简单有效地面向对象编程。`Python` 优雅的语法和动态类型，以及解释型语言的本质，使它成为多数平台上写脚本和快速开发应用的理想语言。
@@ -13,4 +21,3 @@
 有关标准的对象和模块，请参阅 [Python 标准库](https://docs.python.org/zh-cn/3/library/index.html#library-index)。[Python 语言参考手册](https://docs.python.org/zh-cn/3/reference/index.html#reference-index) 提供了更正式的语言定义。想要编写 C 或者 `C++` 扩展可以参考 [扩展和嵌入 Python 解释器](https://docs.python.org/zh-cn/3/extending/index.html#extending-index) 和 [Python/C API 参考手册](https://docs.python.org/zh-cn/3/c-api/index.html#c-api-index)。另外还有不少书籍深入讲解 `Python`。
 
 这个教程并没有完整地介绍每一个功能，甚至可能没有涉及全部的常用功能。这个教程只介绍 `Python` 中最值得注意的功能，也会让你体会到这个语言的风格特色。学习完这个教程，你将可以阅读和编写 Python 模块和程序，也可以开始学习 [`Python` 标准库](https://docs.python.org/zh-cn/3/library/index.html#library-index)，最后将会有实操项目。
-
